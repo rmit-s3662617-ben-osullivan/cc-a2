@@ -1,0 +1,12 @@
+.statistic {
+    margin: 20px 0;
+    padding: 10px;
+    background-color: lightblue;
+    border-bottom: 5px solid dodgerblue;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.row h1 {
+    margin: 20px 0;
+}
